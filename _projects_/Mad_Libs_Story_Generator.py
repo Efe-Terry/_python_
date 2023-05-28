@@ -1,5 +1,6 @@
 print('Simple Madlib Game')
 print('Enter some Noun and an Adjective ---> I\'ll make a cool story for you..')
+print('********************')
 
 # Questions for the user to answer
 noun = input('Choose a noun: ')
@@ -9,6 +10,7 @@ place = input('Name a place: ')
 adjective = input('Choose an adjective (Describing word): ')
 noun3 = input('Choose a noun: ')
 
+print('********************')
 # Print a story from the user input
 print('----------------Story-------------------------')
 
@@ -21,3 +23,4 @@ print('Well it is....:)')
 print('Be Kind always......')
 
 print('---------------Ok Bye-------------------------')
+print('********************')
