@@ -1,0 +1,1 @@
+wrote some python projects as hands on
